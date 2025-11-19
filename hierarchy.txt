@@ -1,0 +1,263 @@
+=== CC Root cc:0  (|V|=2485) ===
+[P] par:0,0  (level=1, |V|=2485, children=3)
+  [P] par:0,1  (level=2, |V|=2396, children=4)
+    [P] par:0,2  (level=3, |V|=2171, children=2)
+      [P] par:0,4  (level=4, |V|=1279, children=10)
+        [L] leaf:0,1  (|V|=446)
+        [L] leaf:0,2  (|V|=309)
+        [L] leaf:0,5  (|V|=196)
+        [L] leaf:0,16  (|V|=148)
+        [L] leaf:0,7  (|V|=86)
+        [L] leaf:0,22  (|V|=28)
+        [L] leaf:0,20  (|V|=27)
+        [L] leaf:0,15  (|V|=17)
+        [L] leaf:0,18  (|V|=13)
+        [L] leaf:0,23  (|V|=9)
+      [P] par:0,3  (level=4, |V|=892, children=10)
+        [L] leaf:0,0  (|V|=172)
+        [L] leaf:0,8  (|V|=166)
+        [L] leaf:0,4  (|V|=164)
+        [L] leaf:0,11  (|V|=141)
+        [L] leaf:0,12  (|V|=82)
+        [L] leaf:0,9  (|V|=60)
+        [L] leaf:0,13  (|V|=39)
+        [L] leaf:0,14  (|V|=29)
+        [L] leaf:0,3  (|V|=20)
+        [L] leaf:0,10  (|V|=19)
+    [L] leaf:0,17  (|V|=129)
+    [L] leaf:0,24  (|V|=66)
+    [L] leaf:0,21  (|V|=30)
+  [L] leaf:0,19  (|V|=65)
+  [L] leaf:0,6  (|V|=24)
+
+=== CC Root cc:1  (|V|=26) ===
+[L] leaf:1,0  (|V|=8)
+[L] leaf:1,1  (|V|=18)
+
+=== CC Root cc:10  (|V|=4) ===
+[L] leaf:10,0  (|V|=4)
+
+=== CC Root cc:11  (|V|=4) ===
+[L] leaf:11,0  (|V|=4)
+
+=== CC Root cc:12  (|V|=4) ===
+[L] leaf:12,0  (|V|=4)
+
+=== CC Root cc:13  (|V|=4) ===
+[L] leaf:13,0  (|V|=4)
+
+=== CC Root cc:14  (|V|=3) ===
+[L] leaf:14,0  (|V|=3)
+
+=== CC Root cc:15  (|V|=3) ===
+[L] leaf:15,0  (|V|=3)
+
+=== CC Root cc:16  (|V|=3) ===
+[L] leaf:16,0  (|V|=3)
+
+=== CC Root cc:17  (|V|=3) ===
+[L] leaf:17,0  (|V|=3)
+
+=== CC Root cc:18  (|V|=3) ===
+[L] leaf:18,0  (|V|=3)
+
+=== CC Root cc:19  (|V|=3) ===
+[L] leaf:19,0  (|V|=3)
+
+=== CC Root cc:2  (|V|=9) ===
+[L] leaf:2,0  (|V|=9)
+
+=== CC Root cc:20  (|V|=3) ===
+[L] leaf:20,0  (|V|=3)
+
+=== CC Root cc:21  (|V|=2) ===
+[L] leaf:21,0  (|V|=2)
+
+=== CC Root cc:22  (|V|=2) ===
+[L] leaf:22,0  (|V|=2)
+
+=== CC Root cc:23  (|V|=2) ===
+[L] leaf:23,0  (|V|=2)
+
+=== CC Root cc:24  (|V|=2) ===
+[L] leaf:24,0  (|V|=2)
+
+=== CC Root cc:25  (|V|=2) ===
+[L] leaf:25,0  (|V|=2)
+
+=== CC Root cc:26  (|V|=2) ===
+[L] leaf:26,0  (|V|=2)
+
+=== CC Root cc:27  (|V|=2) ===
+[L] leaf:27,0  (|V|=2)
+
+=== CC Root cc:28  (|V|=2) ===
+[L] leaf:28,0  (|V|=2)
+
+=== CC Root cc:29  (|V|=2) ===
+[L] leaf:29,0  (|V|=2)
+
+=== CC Root cc:3  (|V|=8) ===
+[L] leaf:3,0  (|V|=8)
+
+=== CC Root cc:30  (|V|=2) ===
+[L] leaf:30,0  (|V|=2)
+
+=== CC Root cc:31  (|V|=2) ===
+[L] leaf:31,0  (|V|=2)
+
+=== CC Root cc:32  (|V|=2) ===
+[L] leaf:32,0  (|V|=2)
+
+=== CC Root cc:33  (|V|=2) ===
+[L] leaf:33,0  (|V|=2)
+
+=== CC Root cc:34  (|V|=2) ===
+[L] leaf:34,0  (|V|=2)
+
+=== CC Root cc:35  (|V|=2) ===
+[L] leaf:35,0  (|V|=2)
+
+=== CC Root cc:36  (|V|=2) ===
+[L] leaf:36,0  (|V|=2)
+
+=== CC Root cc:37  (|V|=2) ===
+[L] leaf:37,0  (|V|=2)
+
+=== CC Root cc:38  (|V|=2) ===
+[L] leaf:38,0  (|V|=2)
+
+=== CC Root cc:39  (|V|=2) ===
+[L] leaf:39,0  (|V|=2)
+
+=== CC Root cc:4  (|V|=6) ===
+[L] leaf:4,0  (|V|=6)
+
+=== CC Root cc:40  (|V|=2) ===
+[L] leaf:40,0  (|V|=2)
+
+=== CC Root cc:41  (|V|=2) ===
+[L] leaf:41,0  (|V|=2)
+
+=== CC Root cc:42  (|V|=2) ===
+[L] leaf:42,0  (|V|=2)
+
+=== CC Root cc:43  (|V|=2) ===
+[L] leaf:43,0  (|V|=2)
+
+=== CC Root cc:44  (|V|=2) ===
+[L] leaf:44,0  (|V|=2)
+
+=== CC Root cc:45  (|V|=2) ===
+[L] leaf:45,0  (|V|=2)
+
+=== CC Root cc:46  (|V|=2) ===
+[L] leaf:46,0  (|V|=2)
+
+=== CC Root cc:47  (|V|=2) ===
+[L] leaf:47,0  (|V|=2)
+
+=== CC Root cc:48  (|V|=2) ===
+[L] leaf:48,0  (|V|=2)
+
+=== CC Root cc:49  (|V|=2) ===
+[L] leaf:49,0  (|V|=2)
+
+=== CC Root cc:5  (|V|=5) ===
+[L] leaf:5,0  (|V|=5)
+
+=== CC Root cc:50  (|V|=2) ===
+[L] leaf:50,0  (|V|=2)
+
+=== CC Root cc:51  (|V|=2) ===
+[L] leaf:51,0  (|V|=2)
+
+=== CC Root cc:52  (|V|=2) ===
+[L] leaf:52,0  (|V|=2)
+
+=== CC Root cc:53  (|V|=2) ===
+[L] leaf:53,0  (|V|=2)
+
+=== CC Root cc:54  (|V|=2) ===
+[L] leaf:54,0  (|V|=2)
+
+=== CC Root cc:55  (|V|=2) ===
+[L] leaf:55,0  (|V|=2)
+
+=== CC Root cc:56  (|V|=2) ===
+[L] leaf:56,0  (|V|=2)
+
+=== CC Root cc:57  (|V|=2) ===
+[L] leaf:57,0  (|V|=2)
+
+=== CC Root cc:58  (|V|=2) ===
+[L] leaf:58,0  (|V|=2)
+
+=== CC Root cc:59  (|V|=2) ===
+[L] leaf:59,0  (|V|=2)
+
+=== CC Root cc:6  (|V|=5) ===
+[L] leaf:6,0  (|V|=5)
+
+=== CC Root cc:60  (|V|=2) ===
+[L] leaf:60,0  (|V|=2)
+
+=== CC Root cc:61  (|V|=2) ===
+[L] leaf:61,0  (|V|=2)
+
+=== CC Root cc:62  (|V|=2) ===
+[L] leaf:62,0  (|V|=2)
+
+=== CC Root cc:63  (|V|=2) ===
+[L] leaf:63,0  (|V|=2)
+
+=== CC Root cc:64  (|V|=2) ===
+[L] leaf:64,0  (|V|=2)
+
+=== CC Root cc:65  (|V|=2) ===
+[L] leaf:65,0  (|V|=2)
+
+=== CC Root cc:66  (|V|=2) ===
+[L] leaf:66,0  (|V|=2)
+
+=== CC Root cc:67  (|V|=2) ===
+[L] leaf:67,0  (|V|=2)
+
+=== CC Root cc:68  (|V|=2) ===
+[L] leaf:68,0  (|V|=2)
+
+=== CC Root cc:69  (|V|=2) ===
+[L] leaf:69,0  (|V|=2)
+
+=== CC Root cc:7  (|V|=5) ===
+[L] leaf:7,0  (|V|=5)
+
+=== CC Root cc:70  (|V|=2) ===
+[L] leaf:70,0  (|V|=2)
+
+=== CC Root cc:71  (|V|=2) ===
+[L] leaf:71,0  (|V|=2)
+
+=== CC Root cc:72  (|V|=2) ===
+[L] leaf:72,0  (|V|=2)
+
+=== CC Root cc:73  (|V|=2) ===
+[L] leaf:73,0  (|V|=2)
+
+=== CC Root cc:74  (|V|=2) ===
+[L] leaf:74,0  (|V|=2)
+
+=== CC Root cc:75  (|V|=2) ===
+[L] leaf:75,0  (|V|=2)
+
+=== CC Root cc:76  (|V|=2) ===
+[L] leaf:76,0  (|V|=2)
+
+=== CC Root cc:77  (|V|=2) ===
+[L] leaf:77,0  (|V|=2)
+
+=== CC Root cc:8  (|V|=4) ===
+[L] leaf:8,0  (|V|=4)
+
+=== CC Root cc:9  (|V|=4) ===
+[L] leaf:9,0  (|V|=4)
